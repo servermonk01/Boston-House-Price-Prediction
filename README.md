@@ -3,10 +3,3 @@ The the goal of this project is to **predict the housing prices of a town or a s
 
 The final model is generalized and perfectly predicts prices with a **100% r-squared**. Our model can very accuratly predict the housing prices in Boston and would be a usefull tool in the real estate, banking, and insurance industries.
 
-From EDA and our model we where able to extract that **value in Boston houses is primarily measured by:**
-* Areas with low crime rates
-* Being on the bounds of the Charles River
-* Older and more indust
-rial neighboorhoods 
-* Having more rooms
-* Located near more urban areas
